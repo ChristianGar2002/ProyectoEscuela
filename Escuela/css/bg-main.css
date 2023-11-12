@@ -1,0 +1,16 @@
+body{
+	background: #3CA55C;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #B5AC49, #3CA55C);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #B5AC49, #3CA55C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ }
+
+nav{
+	background: #3CA55C;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #3CA55C, #B5AC49);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #3CA55C, #B5AC49); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1{
+	font-family: Time new roman;
+	font-style: italic;
+}

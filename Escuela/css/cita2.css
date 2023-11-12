@@ -1,0 +1,80 @@
+
+#cita{
+  letter-spacing: 2px;
+
+}
+
+#cita a{
+  color: #fff;
+  text-decoration: none;
+}
+
+form{
+  padding: 40px 20px;
+  width: 320px;
+  margin: auto;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  border-radius: 7px;
+  border: 2px solid #B822C7;
+  margin-top: 18px; /* parte superior*/
+  padding-top: 18px;
+  margin-bottom: 30px
+
+}
+form{
+  background-color: #242424;
+}
+.hola{
+  border: 2px solid #B822C7;
+}
+.hola2{
+  border: 2px solid #B822C7;
+  background: #242424;
+}
+input{
+  margin-bottom: 20px;
+  padding: 50px;
+  font-size: 17px;
+  
+}
+button{
+  margin-bottom: 10px;
+
+}
+
+.header{
+  width: 100%;
+  margin: 0px auto 0px;
+  text-align: center;
+  text-color: white;
+  border: 0px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 10px 10px;
+  background: #242424;
+  padding: 10px;
+}
+
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 480px){
+  form{
+    width: 100%;
+  }
+}

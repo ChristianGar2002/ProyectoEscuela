@@ -1,0 +1,44 @@
+#cita{
+  letter-spacing: 2px;
+
+}
+
+#cita a{
+  color: #fff;
+  text-decoration: none;
+}
+
+form{
+  padding: 40px 20px;
+  width: 1000px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 10px 20px;
+  box-sizing: border-box;
+  border-radius: 7px;
+  margin-top: 18px; /* parte superior*/
+  padding-top: 18px;
+  margin-bottom: 30px
+  margin-right: auto;
+  margin-left: auto;
+}
+.archivo{
+  margin-left: -40px;
+  margin-top: 40px;
+}
+h2{
+  margin-bottom: 20px;
+}
+input, select{
+  margin-bottom: 20px;
+  padding: 50px;
+  font-size: 17;
+}
+button{
+  margin-bottom: 10px;
+}
+@media (max-width: 480px){
+  form{
+    width: 100%;
+  }
+}
